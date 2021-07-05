@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#password-input{
+  display: inline-block;
+}
+
+#username-input{
+  display: inline-block;
+}
